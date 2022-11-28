@@ -39,3 +39,8 @@ Al definir los límites del sistema se hace, en primer lugar, una selección de 
 En un sistema no determinista, pequeños cambios pueden conducir a consecuencias totalmente divergentes. Una pequeña perturbación inicial, mediante un proceso de amplificación, puede generar un efecto considerable a medio y corto plazo. El movimiento desordenado de los astros, el desplazamiento del plancton en los mares, el retraso de los aviones, la sincronización de las neuronas; todos son sistemas caóticos o «dinámicos no lineales».
 
 La teoría del caos y el efecto mariposa viene a explicar que algo tan complejo como el universo (un sistema caótico flexible) es impredecible. La teoría del caos explica sistemas como la atmósfera o las condiciones climatológicas que impiden realizar pronósticos del tiempo fiables más allá de tres días y es particularmente útil para abordar el estudio de los fenómenos sociales, difíciles de resolver en términos de relaciones lineales causa-efecto.
+
+## Bibliografía
+https://es.wikipedia.org/wiki/Atractor_de_Lorenz
+https://es.wikipedia.org/wiki/Edward_Lorenz
+https://www.nationalgeographic.es/ciencia/2017/11/el-efecto-mariposa#:~:text=%C2%ABEl%20aleteo%20de%20las%20alas,teor%C3%ADas%20f%C3%ADsicas%3A%20el%20efecto%20mariposa.
