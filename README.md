@@ -1,6 +1,9 @@
 # Atractor-de-Lorenz
 
 El **atractor de Lorenz** es un concepto introducido por [Edward Lorenz](#edward-lorenz) en 1963. Se trata de un [sistema dinámico](#sistema-dinámico) determinista tridimensional no lineal derivado de las ecuaciones simplificadas de rollos de convección que se producen en las ecuaciones dinámicas de la atmósfera terrestre.
+$$\frac{dx}{dt}=a(y-x)$$
+$$\frac{dy}{dt}=x(b-z)-y$$
+$$\frac{dz}{dt}=xy-cz$$
 
 ## Ewdard Lorenz
 
