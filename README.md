@@ -7,7 +7,7 @@ $$\frac{dz}{dt}=xy-cz$$
 
 ## Ewdard Lorenz
 
-Edward Norton Lorenz (23 de mayo de 1917-16 de abril de 2008) fue un matemático y meteorólogo estadounidense, desarrolló ideas innovadoras sobre la rotación de los fluidos y realizó importantes contribuciones que ayudaron a comprender las dinámicas atmosféricas y las predicciones climatológicas. Fue pionero en el desarrollo de la teoría del caos. Fue quien introdujo el concepto de atractores extraños y acuñó el término efecto mariposa.
+Edward Norton Lorenz (23 de mayo de 1917-16 de abril de 2008) fue un matemático y meteorólogo estadounidense, desarrolló ideas innovadoras sobre la rotación de los fluidos y realizó importantes contribuciones que ayudaron a comprender las dinámicas atmosféricas y las predicciones climatológicas. Fue pionero en el desarrollo de la teoría del caos. Fue quien introdujo el concepto de atractores extraños y acuñó el término [efecto mariposa](#Efecto-mariposa).
 Edward estudió matemáticas en el Dartmouth College en Nuevo Hampshire y en la Universidad de Harvard en Cambridge, Massachusetts.
 Su padre Edward Henry Lorenz nació en Hartford en 1882 asistió a Hartford High School y al Trinity College antes de obtener el grado en ingeniería mecánica en el Instituto de Tecnología de Massachusetts.
 Obtuvo su doctorado en 1948 en el Instituto de Tecnología de Massachusetts , con un trabajo que describió la aplicación de ecuaciones dinámicas de fluidos para la predicción del movimiento de las tormentas donde después fue profesor por muchos años.
@@ -34,3 +34,16 @@ donde s; b; y r son tres constantes que determinan el comportamiento del sistema
 Un sistema dinámico es un sistema ( objeto complejo cuyas partes o componentes se relacionan con al menos alguno de los demás componentes, ya sea conceptual o material) cuyo estado evoluciona con el tiempo. Los sistemas físicos en situación no estacionaria son ejemplos de sistemas dinámicos, pero también existen modelos económicos, matemáticos y de otros tipos que son sistemas abstractos y, a su vez, sistemas dinámicos. El comportamiento en dicho estado se puede caracterizar determinando los límites del sistema, los elementos y sus relaciones; de esta forma se pueden elaborar modelos que buscan representar la estructura del mismo sistema.
 ¿Qué logramos al definir los límites de un sistema?
 Al definir los límites del sistema se hace, en primer lugar, una selección de aquellos componentes que contribuyan a generar los modos de comportamiento, y luego se determina el espacio donde se llevará a cabo el estudio, omitiendo toda clase de aspectos irrelevantes.
+
+## Efecto mariposa
+
+«El aleteo de las alas de una mariposa se puede sentir al otro lado del mundo». Este proverbio chino es el origen, junto a las investigaciones del matemático y meteorólogo Edward Lorenz, de una de las más cinematográficas teorías físicas: el efecto mariposa. Según este concepto vinculado a la teoría del caos, el aleteo de un insecto en Hong Kong puede desatar una tempestad en Nueva York. Pero, ¿es posible que el aleteo de una mariposa en Sri-Lanka pueda provocar un huracán en EE.UU?
+
+En un sistema no determinista, pequeños cambios pueden conducir a consecuencias totalmente divergentes. Una pequeña perturbación inicial, mediante un proceso de amplificación, puede generar un efecto considerable a medio y corto plazo. El movimiento desordenado de los astros, el desplazamiento del plancton en los mares, el retraso de los aviones, la sincronización de las neuronas; todos son sistemas caóticos o «dinámicos no lineales».
+
+La teoría del caos y el efecto mariposa viene a explicar que algo tan complejo como el universo (un sistema caótico flexible) es impredecible. La teoría del caos explica sistemas como la atmósfera o las condiciones climatológicas que impiden realizar pronósticos del tiempo fiables más allá de tres días y es particularmente útil para abordar el estudio de los fenómenos sociales, difíciles de resolver en términos de relaciones lineales causa-efecto.
+
+## Bibliografía
+https://es.wikipedia.org/wiki/Atractor_de_Lorenz
+https://es.wikipedia.org/wiki/Edward_Lorenz
+https://www.nationalgeographic.es/ciencia/2017/11/el-efecto-mariposa#:~:text=%C2%ABEl%20aleteo%20de%20las%20alas,teor%C3%ADas%20f%C3%ADsicas%3A%20el%20efecto%20mariposa.
