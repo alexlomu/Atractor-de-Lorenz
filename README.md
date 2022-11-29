@@ -6,6 +6,8 @@ $$\frac{dy}{dt}=x(b-z)-y$$
 $$\frac{dz}{dt}=xy-cz$$
 
 Para ciertos valores de los parámetros a, b, c, el sistema exhibe un comportamiento caótico y muestra lo que actualmente se llama un atractor extraño. El atractor extraño en este caso es un fractal de dimensión de Hausdorff entre 2 y 3. Grassberger (1983) ha estimado la dimensión de Hausdorff en 2,06 ± 0,01 y la dimensión de correlación en 2,05 ± 0,01.
+![image_processing20210201-18089-lp24mi](https://user-images.githubusercontent.com/91721888/204561109-cb12869d-b0eb-4323-9281-a1721f22bf49.gif)
+
 
 ## Ewdard Lorenz
 
