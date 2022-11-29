@@ -29,11 +29,6 @@ El comportamiento del modelo de Lorenz se representa trazando sus variables en e
 
 El atractor de Lorenz pertenece al conjunto de atractores desconocidos. Si bien no es una estructura geométrica sencilla, tampoco resulta ser una curva complicada. Se caracteriza porque nunca se intersecta a sí mismo ni repite la misma trayectoria. Proyectado en el plano xz, el atractor se parece a una mariposa; mientras que en el plano yz, se asemeja a una máscara de lechuza. La proyección en el plano xy resulta útil para percibir la tridimensionalidad de este atractor. 
 
-Puntualmente, para estudiar este atractor, hemos empleado las siguientes ecuaciones:
-dx/dt = -s x + s y
-dy/dt = -x y + r x - y
-dz/dt = x y - b z
-donde s; b; y r son tres constantes que determinan el comportamiento del sistema.
 
 ## Propiedades del sistema de Lorenz
 Como hemos explicado anteriormente, el atractor de Lorenz cumple las siguientes ecuaciones:
