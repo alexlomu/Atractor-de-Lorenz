@@ -35,6 +35,13 @@ dy/dt = -x y + r x - y
 dz/dt = x y - b z
 donde s; b; y r son tres constantes que determinan el comportamiento del sistema.
 
+## Propiedades del sistema de Lorenz
+Como hemos explicado anteriormente, el atractor de Lorenz cumple las siguientes ecuaciones:
+![2](https://user-images.githubusercontent.com/91721507/204572075-0c17c587-5393-4329-b15b-c5abfebe287e.PNG)
+
+que denotaremos por SL. Reescribimos dicho sistema de la siguiente forma:
+![1](https://user-images.githubusercontent.com/91721507/204571714-7d950ac6-5f70-439a-b639-bc2b7a24ba9d.PNG)
+
 ## Sistema dinámico
 
 Un sistema dinámico es un sistema ( objeto complejo cuyas partes o componentes se relacionan con al menos alguno de los demás componentes, ya sea conceptual o material) cuyo estado evoluciona con el tiempo. Los sistemas físicos en situación no estacionaria son ejemplos de sistemas dinámicos, pero también existen modelos económicos, matemáticos y de otros tipos que son sistemas abstractos y, a su vez, sistemas dinámicos. El comportamiento en dicho estado se puede caracterizar determinando los límites del sistema, los elementos y sus relaciones; de esta forma se pueden elaborar modelos que buscan representar la estructura del mismo sistema.
