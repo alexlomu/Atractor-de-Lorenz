@@ -3,6 +3,15 @@ from scipy.integrate import odeint
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D 
 
+'''
+
+Este programa es un ejemplo de dos 
+temas interesantes: el atractor de Lorenz 
+y la resolución de un sistema de ecuaciones 
+diferenciales ordinarias usando el modulo scipy.
+
+'''
+
 def lorenz(u,t):
     """
     Sistema de Lorenz
