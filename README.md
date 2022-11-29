@@ -39,8 +39,13 @@ donde s; b; y r son tres constantes que determinan el comportamiento del sistema
 Como hemos explicado anteriormente, el atractor de Lorenz cumple las siguientes ecuaciones:
 ![2](https://user-images.githubusercontent.com/91721507/204572075-0c17c587-5393-4329-b15b-c5abfebe287e.PNG)
 
-que denotaremos por SL. Reescribimos dicho sistema de la siguiente forma:
+que denotaremos por Sistema de Lorenz. Reescribimos dicho sistema de la siguiente forma:
 ![1](https://user-images.githubusercontent.com/91721507/204571714-7d950ac6-5f70-439a-b639-bc2b7a24ba9d.PNG)
+
+### Simetricidad
+El sistema de Lorenz presenta una simetría natural que persiste para cualquier valor de los parámetros. Su significado radica en que si (x(t),y(t),z(t)) es una solución del sistema, entonces (-x(t),-y(t),z(t)) también lo es.
+
+![3](https://user-images.githubusercontent.com/91721507/204575310-74044378-606f-4cfa-aaba-ada08385a9c5.PNG)
 
 ## Sistema dinámico
 
