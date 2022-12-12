@@ -1,8 +1,17 @@
 # Atractor de Lorenz
 ## Índice
+1. [Introducción](#id1)
+2. [Atractor de Lorenz](#id2)
+3. [Ewdard Lorenz](#id3)
+4. [Propiedades del sistema de Lorenz](#id4)
+5. [Sistema dinámico](#id5)
+6. [Teoría del caos](#id6)
+7. [Atractor extraño](#id7)
+8. [Efecto mariposa](#id8)
+9. [Curiosidades](#id9)
+10. [Bibliografía](#id10)
 
-
-## Introducción
+## Introducción <a name="id1"></a>
 
 Antes de empezar, vamos a recordar que es un atractor.
  Un atractor es una singularidad en el espacio de acción donde ocurre un fenómeno, hacia el cual convergen las trayectorias de una dinámica, que encuentran en su atractor una condición local de mínima energía. La existencia de un atractor se puede detectar observando la disipación de algún tipo de energía. El atractor de un péndulo oscilando libremente es su punto más bajo, y es puntual. Además de atractores puntuales, existen atractores cíclicos - o ciclos límites - y atractores caóticos o atractores extraños - el conjunto límite de una trayectoria caótica.
@@ -12,7 +21,7 @@ El comportamiento del modelo de Lorenz se representa trazando sus variables en e
 El atractor de Lorenz pertenece al conjunto de atractores desconocidos. Si bien no es una estructura geométrica sencilla, tampoco resulta ser una curva complicada. Se caracteriza porque nunca se intersecta a sí mismo ni repite la misma trayectoria. Proyectado en el plano xz, el atractor se parece a una mariposa; mientras que en el plano yz, se asemeja a una máscara de lechuza. La proyección en el plano xy resulta útil para percibir la tridimensionalidad de este atractor. 
 
 
-## Atractor de Lorenz
+## Atractor de Lorenz <a name="id2"></a>
 
 El **atractor de Lorenz** es un concepto introducido por [Edward Lorenz](#edward-lorenz) en 1963. Se trata de un [sistema dinámico](#sistema-dinámico) determinista tridimensional no lineal derivado de las ecuaciones simplificadas de rollos de convección que se producen en las ecuaciones dinámicas de la atmósfera terrestre.
 $$\frac{dx}{dt}=a(y-x)$$
@@ -27,7 +36,7 @@ Para ciertos valores de los parámetros a, b, c, el sistema exhibe un comportami
 Existen condiciones iniciales para las que el atractor de Lorenz cambia de forma. Como se mencionó anteriormente, el atractor de Lorenz es altamente sensible a las condiciones iniciales, lo que significa que un pequeño cambio en las condiciones iniciales puede tener un gran impacto en el comportamiento del sistema a largo plazo. Esto se debe a la complejidad matemática del atractor de Lorenz, que es un conjunto de puntos en el espacio de fases que se caracteriza por su forma en espiral. Por lo tanto, si se cambian las condiciones iniciales, es posible que el atractor de Lorenz cambie de forma.
 
 
-## Ewdard Lorenz
+## Ewdard Lorenz <a name="id3"></a>
 
 Edward Norton Lorenz (23 de mayo de 1917-16 de abril de 2008) fue un matemático y meteorólogo estadounidense, desarrolló ideas innovadoras sobre la rotación de los fluidos y realizó importantes contribuciones que ayudaron a comprender las dinámicas atmosféricas y las predicciones climatológicas. Fue pionero en el desarrollo de la teoría del caos. Fue quien introdujo el concepto de atractores extraños y acuñó el término [efecto mariposa](#Efecto-mariposa).
 Edward estudió matemáticas en el Dartmouth College en Nuevo Hampshire y en la Universidad de Harvard en Cambridge, Massachusetts.
@@ -37,7 +46,7 @@ Obtuvo su doctorado en 1948 en el Instituto de Tecnología de Massachusetts , co
 ![edward](https://user-images.githubusercontent.com/91721507/204312784-95a302d2-0e7e-4284-b9e3-2f8b92e6cc3b.JPEG)
 
 
-## Propiedades del sistema de Lorenz
+## Propiedades del sistema de Lorenz <a name="id4"></a>
 Como hemos explicado anteriormente, el atractor de Lorenz cumple las siguientes ecuaciones:
 ![2](https://user-images.githubusercontent.com/91721507/204572075-0c17c587-5393-4329-b15b-c5abfebe287e.PNG)
 
@@ -49,14 +58,14 @@ El sistema de Lorenz presenta una simetría natural que persiste para cualquier 
 
 ![3](https://user-images.githubusercontent.com/91721507/204575310-74044378-606f-4cfa-aaba-ada08385a9c5.PNG)
 
-## Sistema dinámico
+## Sistema dinámico <a name="id5"></a>
 
 Un sistema dinámico es un sistema ( objeto complejo cuyas partes o componentes se relacionan con al menos alguno de los demás componentes, ya sea conceptual o material) cuyo estado evoluciona con el tiempo. Los sistemas físicos en situación no estacionaria son ejemplos de sistemas dinámicos, pero también existen modelos económicos, matemáticos y de otros tipos que son sistemas abstractos y, a su vez, sistemas dinámicos. El comportamiento en dicho estado se puede caracterizar determinando los límites del sistema, los elementos y sus relaciones; de esta forma se pueden elaborar modelos que buscan representar la estructura del mismo sistema.
 ¿Qué logramos al definir los límites de un sistema?
 Al definir los límites del sistema se hace, en primer lugar, una selección de aquellos componentes que contribuyan a generar los modos de comportamiento, y luego se determina el espacio donde se llevará a cabo el estudio, omitiendo toda clase de aspectos irrelevantes.
 
 
-## Teoría del caos
+## Teoría del caos <a name="id6"></a>
 
 Esta teoría declara que existen cierto tipo de sistemas cuyo comportamiento es prácticamente imposible de predecir, pues este es dependiente de diversas variables como pueden serlo el tiempo, en sistemas dinámicos, e interacciones, por la complejidad del sistema. Como ejemplo, si dejamos que una hoja viaje con el viento, será imposible para nosotros conocer dónde se encontrará esta hoja tras el paso de unas simples horas, aún más lo será si tratamos de predecir dónde estará la hoja tras el paso de varios meses.
 
@@ -65,7 +74,7 @@ El caos y los fractales son parte de un tema más amplio, la dinámica, rama de 
 En 1963 Lorenz trabajaba en sus ecuaciones que esperaba predijeran el tiempo en la atmósfera, y trató mediante ordenadores de ver gráficamente el comportamiento de sus ecuaciones. La primera vez que vio dibujada la figura que ahora conocemos como extractor de Lorenz pensó que se había cometido algún error al ejecutar el programa y lo intentó repetidas veces, logrando siempre el mismo resultado hasta que se dio cuenta de que algo pasaba con el sistema de ecuaciones simplificado con el que estaba trabajando. Después de estudiar detenidamente el problema y hacer pruebas con diferentes parámetros (tanto iniciales como las constantes del sistema), Lorenz llegó a la conclusión de que las simulaciones eran muy diferentes para condiciones iniciales muy próximas. Al llegar a la misma, recordó que en el programa que él había creado para su sistema de meteorología con la computadora u ordenador Royal McBee, se podían introducir un máximo de 3 decimales para las condiciones iniciales, aunque el programa trabajaba con 6 decimales y los 3 últimos decimales que faltaban se introducían aleatoriamente. Lorenz publicó sus descubrimientos en revistas de meteorología, pasando desapercibidos durante casi una década
 
 
-## Atractor extraño
+## Atractor extraño <a name="id7"></a>
 
 Los atractores extraños son las regiones del espacio de fases hacia las que tienden las dinámicas de sistemas que entran en régimen caótico. La forma está perfectamente definida y delimitada; en cambio, en su interior, las trayectorias del sistema son impredecibles. Los atractores extraños representan, pues, dos de las propiedades de los sistemas caóticos: determinismo e impredecibilidad. Geométricamente, los atractores extraños son objetos con dimensión fractal.
 
@@ -77,7 +86,7 @@ El movimiento caótico está ligado a lo que se conoce como atractores extraños
 No necesariamente. El atractor de Lorenz es un conjunto de puntos en el espacio de fases que surge de un sistema dinámico descrito por un conjunto de ecuaciones diferenciales. Este conjunto de puntos es cerrado, lo que significa que todas las posibles soluciones del sistema dinámico quedan contenidas dentro del atractor. Por lo tanto, siempre que las condiciones iniciales sean consistentes con las ecuaciones del sistema dinámico, no se saldrán del atractor de Lorenz. Sin embargo, es posible que las soluciones del sistema dinámico se aproximen al borde del atractor, lo que puede dar la impresión de que se están saliendo del mismo.
 
 
-## Efecto mariposa
+## Efecto mariposa <a name="id8"></a>
 
 «El aleteo de las alas de una mariposa se puede sentir al otro lado del mundo». Este proverbio chino es el origen, junto a las investigaciones del matemático y meteorólogo Edward Lorenz, de una de las más cinematográficas teorías físicas: el efecto mariposa. Según este concepto vinculado a la teoría del caos, el aleteo de un insecto en Hong Kong puede desatar una tempestad en Nueva York. Pero, ¿es posible que el aleteo de una mariposa en Sri-Lanka pueda provocar un huracán en EE.UU?
 
@@ -86,7 +95,7 @@ En un sistema no determinista, pequeños cambios pueden conducir a consecuencias
 La teoría del caos y el efecto mariposa viene a explicar que algo tan complejo como el universo (un sistema caótico flexible) es impredecible. La teoría del caos explica sistemas como la atmósfera o las condiciones climatológicas que impiden realizar pronósticos del tiempo fiables más allá de tres días y es particularmente útil para abordar el estudio de los fenómenos sociales, difíciles de resolver en términos de relaciones lineales causa-efecto.
 
 
-## Curiosidades
+## Curiosidades <a name="id9"></a>
 
 Es uno de los primeros ejemplos de un sistema caótico, es decir, un sistema dinámico que es altamente sensible a las condiciones iniciales. Esto significa que, aunque el sistema sigue un conjunto de reglas matemáticas predecibles, pequeñas fluctuaciones en las condiciones iniciales pueden dar lugar a comportamientos completamente diferentes a largo plazo.Por ejemplo, una pequeña variación en la temperatura inicial en un modelo climático puede llevar a predicciones totalmente diferentes a largo plazo.
 
@@ -95,7 +104,7 @@ Otra curiosidad interesante es que el atractor de Lorenz es un ejemplo clásico 
 En resumen, el atractor de Lorenz es un patrón matemático fascinante que ha sido estudiado por su forma única, su carácter caótico y su relevancia en el campo de la teoría del caos y la complejidad.
 
 
-## Bibliografía
+## Bibliografía <a name="id10"></a>
 https://es.wikipedia.org/wiki/Atractor_de_Lorenz
 https://es.wikipedia.org/wiki/Edward_Lorenz
 https://www.nationalgeographic.es/ciencia/2017/11/el-efecto-mariposa#:~:text=%C2%ABEl%20aleteo%20de%20las%20alas,teor%C3%ADas%20f%C3%ADsicas%3A%20el%20efecto%20mariposa.
