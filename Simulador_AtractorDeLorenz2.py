@@ -16,8 +16,8 @@ def lorenz(u,t):
     """
     Sistema de Lorenz
     """
-    #s=10; r=28; b=2.667
-    s=0.5; r=28; b=2.06
+    #Parametros del sistema
+    s=10; r=28; b=2.667
     ux_dot = s*(u[1] - u[0])
     uy_dot = r*u[0] - u[1] - u[0]*u[2]
     uz_dot = u[0]*u[1] - b*u[2]
