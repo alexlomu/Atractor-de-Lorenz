@@ -73,6 +73,16 @@ En un sistema no determinista, pequeños cambios pueden conducir a consecuencias
 
 La teoría del caos y el efecto mariposa viene a explicar que algo tan complejo como el universo (un sistema caótico flexible) es impredecible. La teoría del caos explica sistemas como la atmósfera o las condiciones climatológicas que impiden realizar pronósticos del tiempo fiables más allá de tres días y es particularmente útil para abordar el estudio de los fenómenos sociales, difíciles de resolver en términos de relaciones lineales causa-efecto.
 
+
+## Curiosidades
+
+Es uno de los primeros ejemplos de un sistema caótico, es decir, un sistema dinámico que es altamente sensible a las condiciones iniciales. Esto significa que, aunque el sistema sigue un conjunto de reglas matemáticas predecibles, pequeñas fluctuaciones en las condiciones iniciales pueden dar lugar a comportamientos completamente diferentes a largo plazo.Por ejemplo, una pequeña variación en la temperatura inicial en un modelo climático puede llevar a predicciones totalmente diferentes a largo plazo.
+
+Otra curiosidad interesante es que el atractor de Lorenz es un ejemplo clásico de lo que se conoce como caos determinista. Esto significa que, aunque el comportamiento del sistema puede parecer aleatorio o impredecible, en realidad es completamente determinado por las leyes de la física y las condiciones iniciales del sistema.
+
+En resumen, el atractor de Lorenz es un patrón matemático fascinante que ha sido estudiado por su forma única, su carácter caótico y su relevancia en el campo de la teoría del caos y la complejidad.
+
+
 ## Bibliografía
 https://es.wikipedia.org/wiki/Atractor_de_Lorenz
 https://es.wikipedia.org/wiki/Edward_Lorenz
