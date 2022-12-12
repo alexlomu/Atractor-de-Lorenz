@@ -12,6 +12,10 @@ Para ciertos valores de los parámetros a, b, c, el sistema exhibe un comportami
 
 Existen condiciones iniciales para las que el atractor de Lorenz cambia de forma. Como se mencionó anteriormente, el atractor de Lorenz es altamente sensible a las condiciones iniciales, lo que significa que un pequeño cambio en las condiciones iniciales puede tener un gran impacto en el comportamiento del sistema a largo plazo. Esto se debe a la complejidad matemática del atractor de Lorenz, que es un conjunto de puntos en el espacio de fases que se caracteriza por su forma en espiral. Por lo tanto, si se cambian las condiciones iniciales, es posible que el atractor de Lorenz cambie de forma.
 
+### ¿Puedes salirte del Atractor de Lorenz con alguna condicion inicial concreta?
+
+No necesariamente. El atractor de Lorenz es un conjunto de puntos en el espacio de fases que surge de un sistema dinámico descrito por un conjunto de ecuaciones diferenciales. Este conjunto de puntos es cerrado, lo que significa que todas las posibles soluciones del sistema dinámico quedan contenidas dentro del atractor. Por lo tanto, siempre que las condiciones iniciales sean consistentes con las ecuaciones del sistema dinámico, no se saldrán del atractor de Lorenz. Sin embargo, es posible que las soluciones del sistema dinámico se aproximen al borde del atractor, lo que puede dar la impresión de que se están saliendo del mismo.
+
 
 
 ## Ewdard Lorenz
