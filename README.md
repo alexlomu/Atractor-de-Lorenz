@@ -10,6 +10,9 @@ Para ciertos valores de los parámetros a, b, c, el sistema exhibe un comportami
 ![image_processing20210201-18089-lp24mi](https://user-images.githubusercontent.com/91721888/204562420-6c3fc705-4bf1-4479-b4bc-4e963e7b78a3.gif)
 
 
+Existen condiciones iniciales para las que el atractor de Lorenz cambia de forma. Como se mencionó anteriormente, el atractor de Lorenz es altamente sensible a las condiciones iniciales, lo que significa que un pequeño cambio en las condiciones iniciales puede tener un gran impacto en el comportamiento del sistema a largo plazo. Esto se debe a la complejidad matemática del atractor de Lorenz, que es un conjunto de puntos en el espacio de fases que se caracteriza por su forma en espiral. Por lo tanto, si se cambian las condiciones iniciales, es posible que el atractor de Lorenz cambie de forma.
+
+
 
 ## Ewdard Lorenz
 
