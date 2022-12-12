@@ -24,11 +24,6 @@ Para ciertos valores de los parámetros a, b, c, el sistema exhibe un comportami
 
 Existen condiciones iniciales para las que el atractor de Lorenz cambia de forma. Como se mencionó anteriormente, el atractor de Lorenz es altamente sensible a las condiciones iniciales, lo que significa que un pequeño cambio en las condiciones iniciales puede tener un gran impacto en el comportamiento del sistema a largo plazo. Esto se debe a la complejidad matemática del atractor de Lorenz, que es un conjunto de puntos en el espacio de fases que se caracteriza por su forma en espiral. Por lo tanto, si se cambian las condiciones iniciales, es posible que el atractor de Lorenz cambie de forma.
 
-### ¿Puedes salirte del Atractor de Lorenz con alguna condicion inicial concreta?
-
-No necesariamente. El atractor de Lorenz es un conjunto de puntos en el espacio de fases que surge de un sistema dinámico descrito por un conjunto de ecuaciones diferenciales. Este conjunto de puntos es cerrado, lo que significa que todas las posibles soluciones del sistema dinámico quedan contenidas dentro del atractor. Por lo tanto, siempre que las condiciones iniciales sean consistentes con las ecuaciones del sistema dinámico, no se saldrán del atractor de Lorenz. Sin embargo, es posible que las soluciones del sistema dinámico se aproximen al borde del atractor, lo que puede dar la impresión de que se están saliendo del mismo.
-
-
 
 ## Ewdard Lorenz
 
@@ -73,6 +68,11 @@ En 1963 Lorenz trabajaba en sus ecuaciones que esperaba predijeran el tiempo en 
 Los atractores extraños son las regiones del espacio de fases hacia las que tienden las dinámicas de sistemas que entran en régimen caótico. La forma está perfectamente definida y delimitada; en cambio, en su interior, las trayectorias del sistema son impredecibles. Los atractores extraños representan, pues, dos de las propiedades de los sistemas caóticos: determinismo e impredecibilidad. Geométricamente, los atractores extraños son objetos con dimensión fractal.
 
 El movimiento caótico está ligado a lo que se conoce como atractores extraños, atractores que pueden llegar a tener una enorme complejidad como, por ejemplo, el modelo tridimensional del sistema climático de Lorenz, que lleva al famoso atractor de Lorenz. El atractor de Lorenz es, quizá, uno de los diagramas de sistemas caóticos más conocidos, no sólo porque fue uno de los primeros, sino también porque es uno de los más complejos y peculiares, pues desenvuelve una forma muy peculiar más bien parecida a las alas de una mariposa.
+
+
+### ¿Puedes salirte del Atractor de Lorenz con alguna condicion inicial concreta?
+
+No necesariamente. El atractor de Lorenz es un conjunto de puntos en el espacio de fases que surge de un sistema dinámico descrito por un conjunto de ecuaciones diferenciales. Este conjunto de puntos es cerrado, lo que significa que todas las posibles soluciones del sistema dinámico quedan contenidas dentro del atractor. Por lo tanto, siempre que las condiciones iniciales sean consistentes con las ecuaciones del sistema dinámico, no se saldrán del atractor de Lorenz. Sin embargo, es posible que las soluciones del sistema dinámico se aproximen al borde del atractor, lo que puede dar la impresión de que se están saliendo del mismo.
 
 
 ## Efecto mariposa
