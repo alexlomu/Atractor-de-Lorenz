@@ -1,4 +1,16 @@
-# Atractor-de-Lorenz
+# Atractor de Lorenz
+
+## Introducción
+
+Antes de empezar, vamos a recordar que es un atractor.
+ Un atractor es una singularidad en el espacio de acción donde ocurre un fenómeno, hacia el cual convergen las trayectorias de una dinámica, que encuentran en su atractor una condición local de mínima energía. La existencia de un atractor se puede detectar observando la disipación de algún tipo de energía. El atractor de un péndulo oscilando libremente es su punto más bajo, y es puntual. Además de atractores puntuales, existen atractores cíclicos - o ciclos límites - y atractores caóticos o atractores extraños - el conjunto límite de una trayectoria caótica.
+
+El comportamiento del modelo de Lorenz se representa trazando sus variables en el espacio de fase. Es decir que para cada cálculo sucesivo de x, y, z, se traza el punto correspondiente en un espacio de ejes xyz. En un sistema lineal este trazado puede dibujar una trayectoria conducente a un único punto de estabilidad, o alternativamente puede dibujar un bucle cerrado que indica una variación periódica.
+
+El atractor de Lorenz pertenece al conjunto de atractores desconocidos. Si bien no es una estructura geométrica sencilla, tampoco resulta ser una curva complicada. Se caracteriza porque nunca se intersecta a sí mismo ni repite la misma trayectoria. Proyectado en el plano xz, el atractor se parece a una mariposa; mientras que en el plano yz, se asemeja a una máscara de lechuza. La proyección en el plano xy resulta útil para percibir la tridimensionalidad de este atractor. 
+
+
+## Atractor de Lorenz
 
 El **atractor de Lorenz** es un concepto introducido por [Edward Lorenz](#edward-lorenz) en 1963. Se trata de un [sistema dinámico](#sistema-dinámico) determinista tridimensional no lineal derivado de las ecuaciones simplificadas de rollos de convección que se producen en las ecuaciones dinámicas de la atmósfera terrestre.
 $$\frac{dx}{dt}=a(y-x)$$
@@ -26,15 +38,6 @@ Su padre Edward Henry Lorenz nació en Hartford en 1882 asistió a Hartford High
 Obtuvo su doctorado en 1948 en el Instituto de Tecnología de Massachusetts , con un trabajo que describió la aplicación de ecuaciones dinámicas de fluidos para la predicción del movimiento de las tormentas donde después fue profesor por muchos años.
 
 ![edward](https://user-images.githubusercontent.com/91721507/204312784-95a302d2-0e7e-4284-b9e3-2f8b92e6cc3b.JPEG)
-
-## Introducción
-
-Antes de empezar, vamos a recordar que es un atractor.
- Un atractor es una singularidad en el espacio de acción donde ocurre un fenómeno, hacia el cual convergen las trayectorias de una dinámica, que encuentran en su atractor una condición local de mínima energía. La existencia de un atractor se puede detectar observando la disipación de algún tipo de energía. El atractor de un péndulo oscilando libremente es su punto más bajo, y es puntual. Además de atractores puntuales, existen atractores cíclicos - o ciclos límites - y atractores caóticos o atractores extraños - el conjunto límite de una trayectoria caótica.
-
-El comportamiento del modelo de Lorenz se representa trazando sus variables en el espacio de fase. Es decir que para cada cálculo sucesivo de x, y, z, se traza el punto correspondiente en un espacio de ejes xyz. En un sistema lineal este trazado puede dibujar una trayectoria conducente a un único punto de estabilidad, o alternativamente puede dibujar un bucle cerrado que indica una variación periódica.
-
-El atractor de Lorenz pertenece al conjunto de atractores desconocidos. Si bien no es una estructura geométrica sencilla, tampoco resulta ser una curva complicada. Se caracteriza porque nunca se intersecta a sí mismo ni repite la misma trayectoria. Proyectado en el plano xz, el atractor se parece a una mariposa; mientras que en el plano yz, se asemeja a una máscara de lechuza. La proyección en el plano xy resulta útil para percibir la tridimensionalidad de este atractor. 
 
 
 ## Propiedades del sistema de Lorenz
