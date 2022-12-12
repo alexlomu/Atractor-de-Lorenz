@@ -1,4 +1,6 @@
 # Atractor de Lorenz
+## Índice
+
 
 ## Introducción
 
